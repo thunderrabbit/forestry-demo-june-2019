@@ -18,12 +18,12 @@ sections:
   - landing-page
   - page
 - type: directory
-  path: _people
-  label: People
+  path: _workshops
+  label: Workshops
   create: all
   match: "*"
   templates:
-  - person
+  - post
 - type: directory
   path: _projects
   label: Projects
